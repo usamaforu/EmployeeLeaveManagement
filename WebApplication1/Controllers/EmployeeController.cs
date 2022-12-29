@@ -27,6 +27,7 @@ namespace EmpLeave.Api.Controllers
             _employeeRepository.AddEmployee(employeeDto);
             return Ok("Added Succesfully"); 
         }
+
         [HttpPut]
         public IActionResult UpdateEmployee(EmployeeDto employee)
         {
