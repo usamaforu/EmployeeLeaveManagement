@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EmpLeave.Web.props" />
+</Project>
