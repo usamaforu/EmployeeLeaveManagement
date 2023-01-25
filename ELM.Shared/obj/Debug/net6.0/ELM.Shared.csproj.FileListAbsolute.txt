@@ -22,3 +22,15 @@ C:\Projects\EmployeeLeaveManagement\ELM.Shared\obj\Debug\net6.0\ELM.Shared.dll
 C:\Projects\EmployeeLeaveManagement\ELM.Shared\obj\Debug\net6.0\refint\ELM.Shared.dll
 C:\Projects\EmployeeLeaveManagement\ELM.Shared\obj\Debug\net6.0\ELM.Shared.pdb
 C:\Projects\EmployeeLeaveManagement\ELM.Shared\obj\Debug\net6.0\ref\ELM.Shared.dll
+F:\c#training\GitHubProject\EmployeeLeaveManagement\ELM.Shared\bin\Debug\net6.0\ELM.Shared.deps.json
+F:\c#training\GitHubProject\EmployeeLeaveManagement\ELM.Shared\bin\Debug\net6.0\ELM.Shared.dll
+F:\c#training\GitHubProject\EmployeeLeaveManagement\ELM.Shared\bin\Debug\net6.0\ELM.Shared.pdb
+F:\c#training\GitHubProject\EmployeeLeaveManagement\ELM.Shared\obj\Debug\net6.0\ELM.Shared.csproj.AssemblyReference.cache
+F:\c#training\GitHubProject\EmployeeLeaveManagement\ELM.Shared\obj\Debug\net6.0\ELM.Shared.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#training\GitHubProject\EmployeeLeaveManagement\ELM.Shared\obj\Debug\net6.0\ELM.Shared.AssemblyInfoInputs.cache
+F:\c#training\GitHubProject\EmployeeLeaveManagement\ELM.Shared\obj\Debug\net6.0\ELM.Shared.AssemblyInfo.cs
+F:\c#training\GitHubProject\EmployeeLeaveManagement\ELM.Shared\obj\Debug\net6.0\ELM.Shared.csproj.CoreCompileInputs.cache
+F:\c#training\GitHubProject\EmployeeLeaveManagement\ELM.Shared\obj\Debug\net6.0\ELM.Shared.dll
+F:\c#training\GitHubProject\EmployeeLeaveManagement\ELM.Shared\obj\Debug\net6.0\refint\ELM.Shared.dll
+F:\c#training\GitHubProject\EmployeeLeaveManagement\ELM.Shared\obj\Debug\net6.0\ELM.Shared.pdb
+F:\c#training\GitHubProject\EmployeeLeaveManagement\ELM.Shared\obj\Debug\net6.0\ref\ELM.Shared.dll

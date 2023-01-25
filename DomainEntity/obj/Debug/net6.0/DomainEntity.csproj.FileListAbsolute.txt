@@ -22,3 +22,15 @@ C:\Projects\EmployeeLeaveManagement\DomainEntity\obj\Debug\net6.0\DomainEntity.d
 C:\Projects\EmployeeLeaveManagement\DomainEntity\obj\Debug\net6.0\refint\DomainEntity.dll
 C:\Projects\EmployeeLeaveManagement\DomainEntity\obj\Debug\net6.0\DomainEntity.pdb
 C:\Projects\EmployeeLeaveManagement\DomainEntity\obj\Debug\net6.0\ref\DomainEntity.dll
+F:\c#training\GitHubProject\EmployeeLeaveManagement\DomainEntity\bin\Debug\net6.0\DomainEntity.deps.json
+F:\c#training\GitHubProject\EmployeeLeaveManagement\DomainEntity\bin\Debug\net6.0\DomainEntity.dll
+F:\c#training\GitHubProject\EmployeeLeaveManagement\DomainEntity\bin\Debug\net6.0\DomainEntity.pdb
+F:\c#training\GitHubProject\EmployeeLeaveManagement\DomainEntity\obj\Debug\net6.0\DomainEntity.csproj.AssemblyReference.cache
+F:\c#training\GitHubProject\EmployeeLeaveManagement\DomainEntity\obj\Debug\net6.0\DomainEntity.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#training\GitHubProject\EmployeeLeaveManagement\DomainEntity\obj\Debug\net6.0\DomainEntity.AssemblyInfoInputs.cache
+F:\c#training\GitHubProject\EmployeeLeaveManagement\DomainEntity\obj\Debug\net6.0\DomainEntity.AssemblyInfo.cs
+F:\c#training\GitHubProject\EmployeeLeaveManagement\DomainEntity\obj\Debug\net6.0\DomainEntity.csproj.CoreCompileInputs.cache
+F:\c#training\GitHubProject\EmployeeLeaveManagement\DomainEntity\obj\Debug\net6.0\DomainEntity.dll
+F:\c#training\GitHubProject\EmployeeLeaveManagement\DomainEntity\obj\Debug\net6.0\refint\DomainEntity.dll
+F:\c#training\GitHubProject\EmployeeLeaveManagement\DomainEntity\obj\Debug\net6.0\DomainEntity.pdb
+F:\c#training\GitHubProject\EmployeeLeaveManagement\DomainEntity\obj\Debug\net6.0\ref\DomainEntity.dll

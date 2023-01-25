@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\EmployeeLeaveManagement\\EmpLeave.Web\\EmpLeave.Web.csproj": {}
+    "F:\\c#training\\GitHubProject\\EmployeeLeaveManagement\\EmpLeave.Web\\EmpLeave.Web.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\EmployeeLeaveManagement\\EmpLeave.Web\\EmpLeave.Web.csproj": {
+    "F:\\c#training\\GitHubProject\\EmployeeLeaveManagement\\EmpLeave.Web\\EmpLeave.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\EmployeeLeaveManagement\\EmpLeave.Web\\EmpLeave.Web.csproj",
+        "projectUniqueName": "F:\\c#training\\GitHubProject\\EmployeeLeaveManagement\\EmpLeave.Web\\EmpLeave.Web.csproj",
         "projectName": "EmpLeave.Web",
-        "projectPath": "C:\\Projects\\EmployeeLeaveManagement\\EmpLeave.Web\\EmpLeave.Web.csproj",
-        "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\EmployeeLeaveManagement\\EmpLeave.Web\\obj\\",
+        "projectPath": "F:\\c#training\\GitHubProject\\EmployeeLeaveManagement\\EmpLeave.Web\\EmpLeave.Web.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "F:\\c#training\\GitHubProject\\EmployeeLeaveManagement\\EmpLeave.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -56,15 +56,14 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[6.0.12, 6.0.12]"
+              "version": "[6.0.13, 6.0.13]"
             }
           ],
           "frameworkReferences": {
@@ -72,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.308\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\EmployeeLeaveManagement\\BL\\BL.csproj": {}
+    "F:\\c#training\\GitHubProject\\EmployeeLeaveManagement\\BL\\BL.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\EmployeeLeaveManagement\\BL\\BL.csproj": {
+    "F:\\c#training\\GitHubProject\\EmployeeLeaveManagement\\BL\\BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\EmployeeLeaveManagement\\BL\\BL.csproj",
+        "projectUniqueName": "F:\\c#training\\GitHubProject\\EmployeeLeaveManagement\\BL\\BL.csproj",
         "projectName": "BL",
-        "projectPath": "C:\\Projects\\EmployeeLeaveManagement\\BL\\BL.csproj",
-        "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\EmployeeLeaveManagement\\BL\\obj\\",
+        "projectPath": "F:\\c#training\\GitHubProject\\EmployeeLeaveManagement\\BL\\BL.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "F:\\c#training\\GitHubProject\\EmployeeLeaveManagement\\BL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,14 +28,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Projects\\EmployeeLeaveManagement\\DAL\\DAL.csproj": {
-                "projectPath": "C:\\Projects\\EmployeeLeaveManagement\\DAL\\DAL.csproj"
+              "F:\\c#training\\GitHubProject\\EmployeeLeaveManagement\\DAL\\DAL.csproj": {
+                "projectPath": "F:\\c#training\\GitHubProject\\EmployeeLeaveManagement\\DAL\\DAL.csproj"
               },
-              "C:\\Projects\\EmployeeLeaveManagement\\DomainEntity\\DomainEntity.csproj": {
-                "projectPath": "C:\\Projects\\EmployeeLeaveManagement\\DomainEntity\\DomainEntity.csproj"
+              "F:\\c#training\\GitHubProject\\EmployeeLeaveManagement\\DomainEntity\\DomainEntity.csproj": {
+                "projectPath": "F:\\c#training\\GitHubProject\\EmployeeLeaveManagement\\DomainEntity\\DomainEntity.csproj"
               },
-              "C:\\Projects\\EmployeeLeaveManagement\\DTOs\\DTOs.csproj": {
-                "projectPath": "C:\\Projects\\EmployeeLeaveManagement\\DTOs\\DTOs.csproj"
+              "F:\\c#training\\GitHubProject\\EmployeeLeaveManagement\\DTOs\\DTOs.csproj": {
+                "projectPath": "F:\\c#training\\GitHubProject\\EmployeeLeaveManagement\\DTOs\\DTOs.csproj"
               }
             }
           }
@@ -55,8 +55,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -65,21 +64,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.308\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projects\\EmployeeLeaveManagement\\DAL\\DAL.csproj": {
+    "F:\\c#training\\GitHubProject\\EmployeeLeaveManagement\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\EmployeeLeaveManagement\\DAL\\DAL.csproj",
+        "projectUniqueName": "F:\\c#training\\GitHubProject\\EmployeeLeaveManagement\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Projects\\EmployeeLeaveManagement\\DAL\\DAL.csproj",
-        "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\EmployeeLeaveManagement\\DAL\\obj\\",
+        "projectPath": "F:\\c#training\\GitHubProject\\EmployeeLeaveManagement\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "F:\\c#training\\GitHubProject\\EmployeeLeaveManagement\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -93,14 +92,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Projects\\EmployeeLeaveManagement\\DomainEntity\\DomainEntity.csproj": {
-                "projectPath": "C:\\Projects\\EmployeeLeaveManagement\\DomainEntity\\DomainEntity.csproj"
+              "F:\\c#training\\GitHubProject\\EmployeeLeaveManagement\\DomainEntity\\DomainEntity.csproj": {
+                "projectPath": "F:\\c#training\\GitHubProject\\EmployeeLeaveManagement\\DomainEntity\\DomainEntity.csproj"
               },
-              "C:\\Projects\\EmployeeLeaveManagement\\DTOs\\DTOs.csproj": {
-                "projectPath": "C:\\Projects\\EmployeeLeaveManagement\\DTOs\\DTOs.csproj"
+              "F:\\c#training\\GitHubProject\\EmployeeLeaveManagement\\DTOs\\DTOs.csproj": {
+                "projectPath": "F:\\c#training\\GitHubProject\\EmployeeLeaveManagement\\DTOs\\DTOs.csproj"
               },
-              "C:\\Projects\\EmployeeLeaveManagement\\ELM.Shared\\ELM.Shared.csproj": {
-                "projectPath": "C:\\Projects\\EmployeeLeaveManagement\\ELM.Shared\\ELM.Shared.csproj"
+              "F:\\c#training\\GitHubProject\\EmployeeLeaveManagement\\ELM.Shared\\ELM.Shared.csproj": {
+                "projectPath": "F:\\c#training\\GitHubProject\\EmployeeLeaveManagement\\ELM.Shared\\ELM.Shared.csproj"
               }
             }
           }
@@ -154,8 +153,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -164,21 +162,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.308\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projects\\EmployeeLeaveManagement\\DomainEntity\\DomainEntity.csproj": {
+    "F:\\c#training\\GitHubProject\\EmployeeLeaveManagement\\DomainEntity\\DomainEntity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\EmployeeLeaveManagement\\DomainEntity\\DomainEntity.csproj",
+        "projectUniqueName": "F:\\c#training\\GitHubProject\\EmployeeLeaveManagement\\DomainEntity\\DomainEntity.csproj",
         "projectName": "DomainEntity",
-        "projectPath": "C:\\Projects\\EmployeeLeaveManagement\\DomainEntity\\DomainEntity.csproj",
-        "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\EmployeeLeaveManagement\\DomainEntity\\obj\\",
+        "projectPath": "F:\\c#training\\GitHubProject\\EmployeeLeaveManagement\\DomainEntity\\DomainEntity.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "F:\\c#training\\GitHubProject\\EmployeeLeaveManagement\\DomainEntity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -215,8 +213,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -225,21 +222,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.308\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projects\\EmployeeLeaveManagement\\DTOs\\DTOs.csproj": {
+    "F:\\c#training\\GitHubProject\\EmployeeLeaveManagement\\DTOs\\DTOs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\EmployeeLeaveManagement\\DTOs\\DTOs.csproj",
+        "projectUniqueName": "F:\\c#training\\GitHubProject\\EmployeeLeaveManagement\\DTOs\\DTOs.csproj",
         "projectName": "DTOs",
-        "projectPath": "C:\\Projects\\EmployeeLeaveManagement\\DTOs\\DTOs.csproj",
-        "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\EmployeeLeaveManagement\\DTOs\\obj\\",
+        "projectPath": "F:\\c#training\\GitHubProject\\EmployeeLeaveManagement\\DTOs\\DTOs.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "F:\\c#training\\GitHubProject\\EmployeeLeaveManagement\\DTOs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -253,8 +250,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Projects\\EmployeeLeaveManagement\\DomainEntity\\DomainEntity.csproj": {
-                "projectPath": "C:\\Projects\\EmployeeLeaveManagement\\DomainEntity\\DomainEntity.csproj"
+              "F:\\c#training\\GitHubProject\\EmployeeLeaveManagement\\DomainEntity\\DomainEntity.csproj": {
+                "projectPath": "F:\\c#training\\GitHubProject\\EmployeeLeaveManagement\\DomainEntity\\DomainEntity.csproj"
               }
             }
           }
@@ -274,8 +271,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -284,21 +280,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.308\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projects\\EmployeeLeaveManagement\\ELM.Shared\\ELM.Shared.csproj": {
+    "F:\\c#training\\GitHubProject\\EmployeeLeaveManagement\\ELM.Shared\\ELM.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\EmployeeLeaveManagement\\ELM.Shared\\ELM.Shared.csproj",
+        "projectUniqueName": "F:\\c#training\\GitHubProject\\EmployeeLeaveManagement\\ELM.Shared\\ELM.Shared.csproj",
         "projectName": "ELM.Shared",
-        "projectPath": "C:\\Projects\\EmployeeLeaveManagement\\ELM.Shared\\ELM.Shared.csproj",
-        "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\EmployeeLeaveManagement\\ELM.Shared\\obj\\",
+        "projectPath": "F:\\c#training\\GitHubProject\\EmployeeLeaveManagement\\ELM.Shared\\ELM.Shared.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "F:\\c#training\\GitHubProject\\EmployeeLeaveManagement\\ELM.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -329,8 +325,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -339,7 +334,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.308\\RuntimeIdentifierGraph.json"
         }
       }
     }
